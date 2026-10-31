@@ -1,19 +1,29 @@
-# Cybersecurity Journey
+Hello, I'm Judith! 👋
 
-This repository documents my continuous learning and progress in cybersecurity.
+🔐 Aspiring Cybersecurity Professional
 
-### Current Focus
-- SOC Analysis
-- Threat Detection
-- Network Vulnerabilities
-- Cyber Best Practices
-- Privacy and Data Confidentiality
+Welcome to my GitHub profile!
 
-### Progress Tracker
-- [ ] Building foundational knowledge
-- [ ] Completing hands-on labs
-- [ ] Practicing threat detection
-- [ ] Working on practical projects
-- [ ] Preparing for entry-level roles
+I'm currently building my knowledge and practical skills in cybersecurity through Cisco Networking Academy as I work towards earning the Cisco CCST Cybersecurity certification.
 
-I will regularly update this repository with new skills, certifications, and milestones.
+🎯 My Learning Goals
+Cybersecurity Fundamentals
+Network Security
+Threat Detection and Prevention
+Linux Fundamentals
+Python Programming
+Incident Response
+Information Security
+📚 Current Learning
+Cisco Introduction to Cybersecurity
+Networking Fundamentals
+Cybersecurity Threat Awareness
+🚀 My Goal
+
+To become a skilled Cybersecurity Analyst or SOC Analyst and contribute to protecting organisations against evolving cyber threats.
+
+🌱 Currently
+
+Learning, practising, documenting and growing every day.
+
+Connect with me on LinkedIn and let's grow together!
